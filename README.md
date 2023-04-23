@@ -2,6 +2,15 @@
 
 ## 下载地址：[https://home.wilinz.com:9992/share/AnWNLPcZ](https://home.wilinz.com:9992/share/AnWNLPcZ)
 
+### 作者：
+- [wilinz](https://github.com/wilinz)
+- [jixiuy](https://github.com/jixiuy)
+- [GuMu-Cat](https://github.com/GuMu-Cat)
+- [KWJYES](https://github.com/KWJYES)
+
+### UI设计：
+- [xiong0009](https://github.com/xiong0009)
+
 ## 1 前言
 
 现有的记账应用存在手工录入繁琐、功能不齐全、过度收集隐私、老年人使用记账应用的难度较大，所以需要更加智能化的解决方案。（详细市面其他应用分析和用户用研分析见详细方案文档）。我们团队利用合合信息提供的技术，结合自身知识储备，开发了一款简单记账APP。
