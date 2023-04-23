@@ -1,1 +1,1 @@
-# eazy_write
+# easy_write
