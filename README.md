@@ -25,12 +25,13 @@
 
 1. 具备跨设备数据同步功能
 
-   (1) 登录登出修改密码功能
+   (1) 登录登出修改密码功能  
    图3.2 调整到登录界面  
    
    ![Stitch_20230413_084605](./assets/clip_image004.gif)
 
-   图3.3 登录、注册、修改密码功能
+   图3.3 登录、注册、修改密码功能  
+   
    ![/private/var/folders/gf/vz_j65jx3xx79pmgh3b4v5t40000gn/T/com.kingsoft.wpsoffice.mac/picturecompress_20230410130030/output_4.pngoutput_4](./assets/clip_image006.gif)
 
 2. 消费信息录入功能
