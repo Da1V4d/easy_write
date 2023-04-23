@@ -1,4 +1,4 @@
-# 简单记账APP——智能管理你的财务
+# 简单记账APP，一款功能强大UI漂亮的记账App
 
 ## 下载地址：https://home.wilinz.com:9992/share/AnWNLPcZ
 
