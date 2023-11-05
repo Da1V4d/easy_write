@@ -1,6 +1,6 @@
 # 简单记账APP，一款功能强大UI漂亮的记账App
 
-## 下载地址：[https://home.wilinz.com:9992/share/AnWNLPcZ](https://home.wilinz.com:9992/share/AnWNLPcZ)
+## 下载地址：[https://disk.wilinz.com/share/0lchfzKx](https://disk.wilinz.com/share/0lchfzKx)
 
 ### 作者：
 - [wilinz](https://github.com/wilinz)
